@@ -82,10 +82,10 @@ analytics:
 # Site Author
 author:
   name             : "David Gruskin"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "MD-PhD Candidate at Columbia University"
   location         : "New York, New York"
-  employer         :
+  employer         : "Shadlen and Kahn Labs"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=david+c+gruskin"
   googlescholar    : "https://scholar.google.com/citations?user=E2J3RgkAAAAJ&hl=en"
   email            :
