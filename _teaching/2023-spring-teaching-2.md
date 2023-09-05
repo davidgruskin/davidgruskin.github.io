@@ -8,4 +8,4 @@ date: 2023-01-01
 location: "New York, USA"
 ---
 
-Teaching assistant for Barnard's undergraduate introductory neuroscience course under Professors Alex White (Spring 2023) and BJ Casey (Fall 2023).
+Instructor for the Human Physiology Course offered by Columbia's Science Honors Program for local high school students.
